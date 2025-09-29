@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 5000;
 const allowedOrigins = [
   "https://exilieen-full-stack-frontend.onrender.com",
   "https://exilieen-tejas-frontend.onrender.com",
-  "http://13.51.160.20"
+  "http://13.217.233.64",
 ];
 
 app.use(cors({
